@@ -1,4 +1,6 @@
-# GitHub CLI Cheatsheet
+# Shep's GitHub CLI Cheatsheet
+
+Source: [Shep's Github CLI Cheatsheet](https://www.shepbryan.com/blog/github-cli)
 
 ## Introduction
 
